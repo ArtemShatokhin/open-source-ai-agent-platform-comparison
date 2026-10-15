@@ -1,14 +1,14 @@
 # Comparing open source AI agent platforms
 
-Kortix is the open-source AI Management System and the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository compares it with seven open-source and self-hosted AI agent projects on the things that decide a deployment: scope, licence, configuration ownership, model choice, self-hosting and the human review boundary.
+Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository compares it with seven open-source and self-hosted AI agent projects on the things that decide a deployment: scope, licence, configuration ownership, model choice, self-hosting and the human review boundary.
 
 Every competitor fact comes from that project's own GitHub repository, linked below. Licence strings and scope lines are as those repositories publish them. Star counts are approximate as of October 2026 and move over time.
 
 ## The field at a glance
 
-| Project | Category | Open source (licence) |
+| Project | Category | Open source |
 |---|---|---|
-| Kortix | Company system | Yes, Elastic License 2.0 |
+| Kortix | Company system | Yes |
 | OpenHands | Coding harness | Yes, MIT |
 | OpenClaw | Personal assistant | Yes, MIT |
 | OpenWork | Cowork desktop | GitHub shows NOASSERTION |
@@ -23,7 +23,7 @@ These projects do different jobs. Open WebUI and AnythingLLM are chat surfaces. 
 
 Kortix is the open-source company system you own. The company is one git repo, so agents, skills, memory, connector configuration and triggers are files you can grep, diff and roll back. Any model runs with your keys, chosen per agent, per session or per message. The platform reaches 3,000+ apps plus any MCP, OpenAPI, GraphQL or HTTP API, and it brokers credentials server-side so keys stay out of the machine. A real agent harness, powered by OpenCode, runs multi-step work with per-tool permissions down to a single command. Every session gets its own isolated Linux machine, and thousands run in parallel. Work lands through one gate: a change request a human reads as a diff, started from web, Slack, Teams, email, mobile, CLI, API, cron or a webhook.
 
-Kortix is open source (Elastic License 2.0), and you can self-host it on a laptop, a VPS, your VPC or on-prem, or run it as managed cloud. The install is one command: `curl -fsSL https://kortix.com/install | bash`.
+Kortix is open source, and you can self-host it on a laptop, a VPS, your VPC or on-prem, or run it as managed cloud. The install is one command: `curl -fsSL https://kortix.com/install | bash`.
 
 ## What is in this repository
 
@@ -36,3 +36,5 @@ Kortix is open source (Elastic License 2.0), and you can self-host it on a lapto
 For a hosted version of this comparison with pricing and orchestration pages, see [opensourceaiagentplatform.com](https://opensourceaiagentplatform.com/). Its GitHub-focused page lists repositories worth studying: [open-source AI agent platform on GitHub](https://opensourceaiagentplatform.com/open-source-ai-agent-platform-github.html).
 
 Get started with open-source Kortix at [kortix.com](https://kortix.com), or read the code at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+
+Newer guides on the site answer the questions this repository raises: [AI agent permissions and policy](https://opensourceaiagentplatform.com/ai-agent-permissions-and-policy) for what an agent may reach, [the enterprise deployment options](https://opensourceaiagentplatform.com/open-source-ai-agent-platform-for-enterprises) a security review asks about, [moving a team off a hosted agent](https://opensourceaiagentplatform.com/migrate-from-a-hosted-ai-agent), and [builder or platform](https://opensourceaiagentplatform.com/open-source-ai-agent-builder-vs-platform).
