@@ -1,6 +1,6 @@
 # Open source AI agent platform FAQ
 
-Kortix is the open-source AI Management System and the leading open-source alternative to Claude Cowork and ChatGPT Work. These answers cover the questions buyers ask first about open-source AI agent platforms and about Kortix in particular. A shorter version lives on the satellite at [open source AI agent platform FAQ](https://opensourceaiagentplatform.com/faq.html).
+Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. These answers cover the questions buyers ask first about open-source AI agent platforms and about Kortix in particular. A shorter version lives on the satellite at [open source AI agent platform FAQ](https://opensourceaiagentplatform.com/faq.html).
 
 ## What is an open source AI agent platform?
 
@@ -8,7 +8,7 @@ An open source AI agent platform is software you can run and modify that lets AI
 
 ## Is Kortix open source?
 
-Yes. Kortix is open source (Elastic License 2.0), and you can self-host, read and modify the code. The company runs as one git repo, so agents, skills, memory, connector configuration and triggers are files you own. You can run Kortix on a laptop, a VPS, your VPC or on-prem, or use it as managed cloud. The source is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Yes. Kortix is open source, and you can self-host, read and modify the code. The company runs as one git repo, so agents, skills, memory, connector configuration and triggers are files you own. You can run Kortix on a laptop, a VPS, your VPC or on-prem, or use it as managed cloud. The source is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
 
 ## How is Kortix different from Claude Cowork and ChatGPT Work?
 

@@ -1,6 +1,6 @@
 # Self-hosting an open source AI agent platform
 
-Self-hosting an open source AI agent platform means running the agents, the tools and the data on compute you control, instead of renting a seat in someone else's product. Kortix is the open-source AI Management System and the leading open-source alternative to Claude Cowork and ChatGPT Work, and it is built to be self-hosted from the first install.
+Self-hosting an open source AI agent platform means running the agents, the tools and the data on compute you control, instead of renting a seat in someone else's product. Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work, and it is built to be self-hosted from the first install.
 
 ## What self-hosting actually involves
 
@@ -16,7 +16,7 @@ Kortix installs with one command:
 curl -fsSL https://kortix.com/install | bash
 ```
 
-From there the company is a repository. Agents, skills, memory, connector configuration and triggers are files. A change to any of them is a commit, which means a self-hosted team gets a full audit trail for free: grep the config, diff any change, roll it back. Kortix is open source (Elastic License 2.0), and you can self-host, read and modify the code.
+From there the company is a repository. Agents, skills, memory, connector configuration and triggers are files. A change to any of them is a commit, which means a self-hosted team gets a full audit trail for free: grep the config, diff any change, roll it back. Kortix is open source, and you can self-host, read and modify the code.
 
 ## Models and keys on your own hardware
 

@@ -1,6 +1,6 @@
 # Open source AI agent platform comparison
 
-Kortix is the open-source AI Management System and the leading open-source alternative to Claude Cowork and ChatGPT Work. This comparison puts it beside seven other open-source and self-hosted AI agent projects by the job each one does. A chat UI, a coding harness and a company system differ.
+Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. This comparison puts it beside seven other open-source and self-hosted AI agent projects by the job each one does. A chat UI, a coding harness and a company system differ.
 
 Each competitor line cites that project's own repository and licence. Star counts are approximate, October 2026.
 
@@ -8,7 +8,7 @@ Each competitor line cites that project's own repository and licence. Star count
 
 | Project | Scope | Category | Open source (licence) |
 |---|---|---|---|
-| Kortix | One company system: agents, skills, memory, connectors, triggers | Company system | Yes, Elastic License 2.0 |
+| Kortix | One company system: agents, skills, memory, connectors, triggers | Company system | Yes |
 | OpenHands | AI-driven development | Coding harness | Yes, MIT |
 | OpenClaw | A personal AI assistant that does things | Personal assistant | Yes, MIT |
 | OpenWork | Self-described open-source alternative to Claude Cowork | Cowork desktop | GitHub shows NOASSERTION |
@@ -33,7 +33,7 @@ Kortix covers the whole loop: agents, their skills, company memory, connector co
 
 ## Licence, self-hosting and model choice
 
-The licence column decides what you may run and change. OpenHands, OpenClaw, AnythingLLM and Hermes Agent are MIT; Eigent is Apache-2.0. OpenWork and Open WebUI show a licence GitHub reports as NOASSERTION, so read their own licence files before relying on one. Kortix is open source (Elastic License 2.0), and you can self-host, read and modify the code.
+The licence column decides what you may run and change. OpenHands, OpenClaw, AnythingLLM and Hermes Agent are MIT; Eigent is Apache-2.0. OpenWork and Open WebUI show a licence GitHub reports as NOASSERTION, so read their own licence files before relying on one. Kortix is open source, and you can self-host, read and modify the code.
 
 Self-hosting is a separate question. Open WebUI, AnythingLLM and Eigent run locally by design. Kortix runs on a laptop, a VPS, your VPC or on-prem, or as managed cloud, from one install command: `curl -fsSL https://kortix.com/install | bash`.
 

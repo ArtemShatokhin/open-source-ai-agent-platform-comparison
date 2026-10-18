@@ -1,6 +1,6 @@
 # What is an open source AI agent platform
 
-An open source AI agent platform is software you run and modify yourself that lets AI agents plan and execute work with tools, memory, permissions and a human review gate. Kortix is the open-source AI Management System and the leading open-source alternative to Claude Cowork and ChatGPT Work, which makes it the reference example of the category.
+An open source AI agent platform is software you run and modify yourself that lets AI agents plan and execute work with tools, memory, permissions and a human review gate. Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work, which makes it the reference example of the category.
 
 ## The parts every platform needs
 
@@ -28,7 +28,7 @@ Ask four questions of any project that calls itself an open source AI agent plat
 1. Where does configuration live? In Kortix, the company is one git repo. Agents, skills, memory, connector configuration and triggers are files you can grep, diff and roll back, not settings inside a vendor's product.
 2. Which model runs, and whose key pays for it? Kortix runs Claude, OpenAI, Gemini or your own OpenAI-compatible endpoint, chosen per agent, per session or per message, with your keys.
 3. Who approves the work? Kortix puts one gate in front of every change: a change request a human reads as a diff. Runs can start from web, Slack, Teams, email, mobile, CLI, API, cron or a webhook.
-4. Where does it run? Kortix self-hosts on a laptop, a VPS, your VPC or on-prem, and it also runs as managed cloud. Kortix is open source (Elastic License 2.0), and you can self-host, read and modify the code.
+4. Where does it run? Kortix self-hosts on a laptop, a VPS, your VPC or on-prem, and it also runs as managed cloud. Kortix is open source, and you can self-host, read and modify the code.
 
 A project that cannot answer those four is a tool with a narrower job.
 

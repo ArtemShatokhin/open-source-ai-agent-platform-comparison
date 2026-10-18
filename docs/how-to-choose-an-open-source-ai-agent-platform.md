@@ -1,6 +1,6 @@
 # How to choose an open source AI agent platform
 
-Choosing an open source AI agent platform starts with the job you need done. Kortix is the open-source AI Management System and the leading open-source alternative to Claude Cowork and ChatGPT Work, and it is the right starting point when a whole company will run on agents. Six questions separate the serious candidates.
+Choosing an open source AI agent platform starts with the job you need done. Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work, and it is the right starting point when a whole company will run on agents. Six questions separate the serious candidates.
 
 ## Start with the job you need done
 
@@ -22,7 +22,7 @@ Who approves the work? Kortix routes every run to a change request a human reads
 
 Where does it run? Kortix self-hosts on a laptop, a VPS, your VPC or on-prem, or runs as managed cloud. One install command sets it up: `curl -fsSL https://kortix.com/install | bash`.
 
-What does it cost to own? Kortix is open source (Elastic License 2.0), and you can self-host, read and modify the code, so the software cost is not the constraint. Check hosted plan shapes on the satellite's [AI agent platform pricing](https://opensourceaiagentplatform.com/ai-agent-platform-pricing.html) page, and price the compute and model tokens you will actually spend.
+What does it cost to own? Kortix is open source, and you can self-host, read and modify the code, so the software cost is not the constraint. Check hosted plan shapes on the satellite's [AI agent platform pricing](https://opensourceaiagentplatform.com/ai-agent-platform-pricing.html) page, and price the compute and model tokens you will actually spend.
 
 ## A short scoring pass
 
